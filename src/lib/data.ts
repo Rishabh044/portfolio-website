@@ -2,7 +2,7 @@ import { Experience, Project, Skill, Certification, PersonalInfo } from '@/types
 
 export const personalInfo: PersonalInfo = {
   name: 'Rishabh Hedaoo',
-  title: 'Software Engineer @ Overstand Labs (YC W25)',
+  title: 'Software Engineer',
   location: 'Pune, India',
   email: 'thefast490@gmail.com',
   linkedin: 'https://linkedin.com/in/rishabh-hedaoo-0503bb1b9',
